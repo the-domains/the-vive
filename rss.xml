@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[the VIVE]]></title>
         <description><![CDATA[the VIVE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-vive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:15:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 17:25:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-vive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e63db1-cf6e-487c-ad45-94bd5e1d81d0.jpg">]]></description>
-            <link>undefinedb47c570f-1f9c-4c32-b4d6-45bf740fbf60/index.html</link>
+            <title><![CDATA[What is the Vive]]></title>
+            <description><![CDATA[<article><h1>What is the Vive</h1><p>The Vive is where life and faith unite. It is a place where daily encouragement and friendships meet. The Vive is where music, art, culture, and spiritual renewal happen. The VIVE is life. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ad29ce4a5214686f267eece3f4bd4555e064c29.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-vive/b47c570f-1f9c-4c32-b4d6-45bf740fbf60/index.html</link>
             <guid isPermaLink="false">b47c570f-1f9c-4c32-b4d6-45bf740fbf60</guid>
-            <pubDate>Wed, 27 Jan 2016 17:14:59 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 17:25:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
